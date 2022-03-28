@@ -1,3 +1,7 @@
+# Summary
+Simple To-do list using TypeScript
+Add, edit, delete, complete and drag/drop
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
